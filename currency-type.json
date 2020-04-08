@@ -1,16 +1,14 @@
-{
-  "currency": [
-					{
-						icon: "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Bitcoin-BTC-icon.png",
-						symbol: "btc/usd",
-					},
-					{
-						icon: "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Ethereum-ETH-icon.png",
-						symbol: "eth/usd",
-					},
-					{
-						icon: "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Tether-USDT-icon.png",
-						symbol: "usdt/usd",
-					},
-				]
-}
+[
+	{
+		"icon": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Bitcoin-BTC-icon.png",
+		"symbol": "btc/usd"
+	},
+	{
+		"icon": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Ethereum-ETH-icon.png",
+		"symbol": "eth/usd"
+	},
+	{
+		"icon": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/512/Tether-USDT-icon.png",
+		"symbol": "usdt/usd"
+	}
+]
